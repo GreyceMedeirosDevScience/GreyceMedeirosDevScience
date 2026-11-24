@@ -1,16 +1,14 @@
-## Hi there 👋
+# Greyce Oliveira de Medeiros
 
-<!--
-**GreyceMedeirosDevScience/GreyceMedeirosDevScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Analyst, Data & Business Intelligence professional, and Master in Science, Technology and Innovation (UFRN).
 
-Here are some ideas to get you started:
+## Background & Focus
+- **Data & BI:** Data Warehousing, SQL (Oracle, PostgreSQL), Business Intelligence, and data analysis (Python/Pandas).
+- **Software & Systems:** Systems analysis, requirements engineering, web development, APIs, and technical documentation.
+- **Applied Research:** Higher education census data systems and data-driven public sector solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work & Research
+- *Expanded analysis: requisitos para o desenvolvimento de um sistema multiplataforma de consulta de dados do censo da educação superior* — Master's dissertation (UFRN) and paper published in *Revista DELOS* (2025).
+- Business Intelligence and data modeling applied to public administration and corporate systems.
+
+*Portfolio and repositories actively being organized and updated.*
